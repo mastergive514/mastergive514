@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **That website**
 
-- 🌱 I’m currently learning **Website Courses**
+- 🌱 I’m currently learning **C and C++**
 
-- 👯 I’m looking to collaborate on **MineCube (Not Released)**
+- 👯 I’m looking to collaborate on **NovaCraft**
 
 - 📫 How to reach me **aymanbouraaman70@hotmail.com**
 
