@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastergive514" alt="mastergive514" /></a> </p>
 
-- 🔭 I’m currently working on **That website**
+- 🔭 I’m currently working on **NovaCraft**
 
 - 🌱 I’m currently learning **C and C++**
 
-- 👯 I’m looking to collaborate on **NovaCraft**
+- 👯 I’m looking to collaborate on **ClassiCube Project**
 
 - 📫 How to reach me **aymanbouraaman70@hotmail.com**
 
